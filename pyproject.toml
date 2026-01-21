@@ -1,0 +1,20 @@
+[build-system]
+requires        = ["setuptools>=61.0"]
+build-backend   = "setuptools.build_meta"
+
+[project]
+name            = "noclame"
+version         = "0.1.0"
+description     = "Node classification metrics for graph-based models"
+readme          = "README.md"
+requires-python = ">=3.9"
+
+authors = [
+    { name = "Victor Kyllesbech"}
+]
+dependencies = [
+    "numpy"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
