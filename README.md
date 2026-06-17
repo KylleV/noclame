@@ -13,7 +13,9 @@ In addition to the already established top-k metric, the script includes three n
 
 ## Citation
 
-If any of the three new metric, **NRD**, **ANPI** or **RRCS** is used somewhere where appropriate, please cite the paper 'Can graph neural networks understand chemical elements ?' [Currently Not Published]
+If any of the three new metric, **NRD**, **ANPI** or **RRCS** is used somewhere where appropriate, please cite our paper below :
+
+Kyllesbech, V.; Poole III, D. A.; Alivanistos, D.; Cochez, M.; Mouhib, H.; Geerke, D. P. Can Graph Neural Networks Understand Chemical Elements? J. Chem. Inf. Model. 2026. [https://doi.org/10.1021/acs.jcim.6c00384](https://doi.org/10.1021/acs.jcim.6c00384).
 
 # Usage 
 
