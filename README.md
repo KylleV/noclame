@@ -1,3 +1,7 @@
+
+
+<img width="100%" height="300px" alt="NoClaMe_GitHub" src="https://github.com/KylleV/noclame/blob/main/NoClaMe_GitHub.svg" />
+
 # Node Classification Metrics, (NoClaMe) 
 A small script containing four different metrics for binary node/vertex classification: top-k and three new metrics **NRD**, **ANPI** and **RRCS**.
 
